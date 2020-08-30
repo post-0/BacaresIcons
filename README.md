@@ -6,4 +6,4 @@
 
 ### Installation:
 
-    sudo git clone git@github.com:post-0/BacaresIcons.git /usr/share/icons/
+    sudo git clone https://github.com/post-0/BacaresIcons.git /usr/share/icons/Adwita
